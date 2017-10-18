@@ -1,0 +1,5 @@
+C:\Users\tmcmullen\Desktop\Visual Studio Projects\FAQ\FAQ\obj\Debug\FAQ.csprojResolveAssemblyReference.cache
+C:\Users\tmcmullen\Desktop\Visual Studio Projects\FAQ\FAQ\bin\Debug\FAQ.dll
+C:\Users\tmcmullen\Desktop\Visual Studio Projects\FAQ\FAQ\bin\Debug\FAQ.pdb
+C:\Users\tmcmullen\Desktop\Visual Studio Projects\FAQ\FAQ\obj\Debug\FAQ.dll
+C:\Users\tmcmullen\Desktop\Visual Studio Projects\FAQ\FAQ\obj\Debug\FAQ.pdb

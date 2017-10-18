@@ -1,0 +1,5 @@
+C:\Users\tmcmullen\Desktop\Visual Studio Projects\Support\Support\bin\Debug\Support.dll
+C:\Users\tmcmullen\Desktop\Visual Studio Projects\Support\Support\bin\Debug\Support.pdb
+C:\Users\tmcmullen\Desktop\Visual Studio Projects\Support\Support\obj\Debug\Support.csprojResolveAssemblyReference.cache
+C:\Users\tmcmullen\Desktop\Visual Studio Projects\Support\Support\obj\Debug\Support.dll
+C:\Users\tmcmullen\Desktop\Visual Studio Projects\Support\Support\obj\Debug\Support.pdb
